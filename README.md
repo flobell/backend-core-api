@@ -1,6 +1,6 @@
 # Backend Core API
 
-This project is a backend API created to demonstrate clean architecture,
-practical business logic, and maintainable design.
+Backend API built with Flask and PostgreSQL to demonstrate clean design,
+real-world patterns, and maintainable backend architecture.
 
-More details coming soon.
+Status: In progress.
